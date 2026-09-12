@@ -1,0 +1,31 @@
+{
+  "name": "defi-2",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "Main-Lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al-Haitham/Git-modules-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al-Haitham/Git-modules-practice/issues"
+  },
+  "homepage": "https://github.com/Al-Haitham/Git-modules-practice#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/config-helpers": "^0.7.0",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^8.57.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.6.0",
+    "globals": "^17.12.0"
+  }
+}
